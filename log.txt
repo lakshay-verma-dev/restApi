@@ -1,0 +1,5 @@
+/nGET / 200
+/nGET /api/users 200
+/nGET /api/users 200
+/nPOST / 200
+/nPOST /?first_name=Mame&last_name=Grimestone&email=mgrimestonerr@yelp.com&gender=Female&jobTitle=Structural%20Analysis%20Engineer 200
